@@ -11,6 +11,7 @@ using ATCUDVALIDATOR.API.Helpers.XsdHeaders;
 using ATCUDVALIDATOR.API.Helpers;
 using ATCUDVALIDATOR.API.Classes;
 using Microsoft.Extensions.Options;
+using ServiceTransportDocumentsWS;
 
 namespace ATCUDVALIDATOR.API.Services
 {
