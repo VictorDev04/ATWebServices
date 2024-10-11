@@ -5,7 +5,6 @@ using System.Security.Authentication;
 using System.Net.Http.Headers;
 using ServiceSeriesWS;
 using System.ServiceModel;
-using ServiceMovementsDocsWS;
 using System.Formats.Asn1;
 using ATCUDVALIDATOR.API.Helpers.XsdHeaders;
 using ATCUDVALIDATOR.API.Helpers;
